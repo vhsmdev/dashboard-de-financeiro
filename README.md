@@ -21,7 +21,7 @@
 ---
 Para visualizar o dashboard, [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiMDVmNmI3ZjEtNzhlMi00MzgyLWIzZjMtYmQ0NDAxY2M4MjFlIiwidCI6IjhkODdkMGZhLWE4NDktNGNkYi1iZTIxLTk1YzY3ZjU3ZGZmYyJ9). 
 
-![Capa](https://vinicius.startz.space/wp-content/uploads/2024/04/capa.png)
+![Capa](https://vinicius.startz.space/wp-content/uploads/2024/04/capa-compressed.png)
 
 ![Visão Geral](https://vinicius.startz.space/wp-content/uploads/2024/04/11111.png)
 
