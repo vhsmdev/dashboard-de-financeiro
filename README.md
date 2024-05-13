@@ -21,11 +21,11 @@
 ---
 Para visualizar o dashboard, [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiMDVmNmI3ZjEtNzhlMi00MzgyLWIzZjMtYmQ0NDAxY2M4MjFlIiwidCI6IjhkODdkMGZhLWE4NDktNGNkYi1iZTIxLTk1YzY3ZjU3ZGZmYyJ9). 
 
-![Capa](https://vinicius.startz.space/wp-content/uploads/2024/04/capa-compressed.png)
+![Capa](https://github.com/vhsmdev/dashboard-financeiro/blob/main/PrintsProjeto/P00.jpeg?raw=true)
 
-![Visão Geral](https://vinicius.startz.space/wp-content/uploads/2024/04/11111.png)
+![Visão Geral](https://github.com/vhsmdev/dashboard-financeiro/blob/main/PrintsProjeto/P01.jpeg?raw=true)
 
-![Detalhamento](https://vinicius.startz.space/wp-content/uploads/2024/04/222222.png)
+![Detalhamento](https://github.com/vhsmdev/dashboard-financeiro/blob/main/PrintsProjeto/P02.jpeg?raw=true)
 
 
 Este projeto oferece uma análise abrangente das finanças, permitindo uma visão clara dos principais indicadores e detalhes importantes para a tomada de decisões estratégicas. Para utilizar o dashboard, abra o arquivo "DASHBOARD FINANCEIRO.PIBIX" em uma plataforma compatível com o formato. Para mais informações sobre como utilizar o dashboard ou contribuir com o projeto, consulte a documentação ou entre em contato com o responsável pelo repositório.
